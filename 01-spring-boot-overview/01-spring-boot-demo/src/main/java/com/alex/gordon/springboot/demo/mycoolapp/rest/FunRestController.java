@@ -9,6 +9,6 @@ public class FunRestController {
 
     @GetMapping("/")
     public String sayHellp() {
-        return "Hello World!!!!@@@###";
+        return "Hello World!!!!";
     }
 }
